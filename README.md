@@ -1,4 +1,4 @@
-# API de Andalucía Descubre
+# Andalucía Descubre API - EDUARDO PIMENTEL 2º DAM
 
 La API de Andalucía Descubre está diseñada para ser fácil de usar y flexible, permitiendo a los desarrolladores acceder a la información de los lugares más emblemáticos de Andalucía, así como a la información de los eventos, platos y monumentos de la región.
 
