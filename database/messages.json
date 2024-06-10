@@ -1,0 +1,31 @@
+{
+
+	"api.blacklisted": "You are currently IP Blacklisted!",
+	"api.bad_domain": "You are not allowed to access the API from here!",
+	"api.not_whitelisted": "You are not allowed to access the API!",
+
+	"error.404": "Resource not found!",
+	"error.405": "Method not allowed!",
+	"error.429": "You got rate limited, you can only make {0} requests per {1}.",
+	"error.500": "Server ran in an error: {0}",
+
+	"auth.no_json": "No JSON sent in request.",
+	"auth.invalid_captcha": "Invalid captcha (empty or bad)",
+	"auth.no_email": "EMAIL not provided or invalid in JSON request.",
+	"auth.no_password": "PASSWORD not provided or invalid in JSON request.",
+
+	"login.no_account": "no hay una cuenta registrada con ese email",
+	"login.not_enabled": "tu cuenta no está aceptada",
+
+	"register.already_registered": "There is already an EMAIL account registered.",
+	"register.good": "success register",
+	"register.bad": "Error happened al registrar: {0}",
+
+	"towns.invalid_data": "Invalid data provided for town.",
+	"towns.no_json": "Invalid JSON format.",
+	"towns.already_exists": "Town already exists.",
+	"towns.error": "An error occurred while processing your request.",
+
+	"login.invalid_password": "Invalid password, check again"
+
+}

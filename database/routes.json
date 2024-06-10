@@ -1,0 +1,11 @@
+{
+	"endpoints": [
+		"ALLOWED_ENDPOINTS"
+	],
+	"blacklist": {
+		"*": []
+	},
+	"whitelist": {
+		"*": []
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"captcha": "CAPTCHA-KEY",
+	"cache": [
+		"__pycache__",
+		"utils/__pycache__",
+		"endpoints/__pycache__"
+	],
+	"cors": [
+		"ALLOWED-URLS"
+	],
+	"keys": {
+		"SENDGRID_API_KEY": "SENDGRID-API"
+	},
+	"mysql": {
+		"host": "localhost",
+		"database": "DB-NAME",
+		"user": "DB-USER",
+		"password": "DB-PASS"
+	}
+}
